@@ -1,0 +1,25 @@
+# Prerequisites / Build output
+*.exe
+*.out
+*.o
+*.obj
+*.app
+build/
+bin/
+dist/
+.dist/
+output/
+
+# VS Code & Code Runner
+.vscode/
+tempCodeRunnerFile.cpp
+
+# Competitive Companion / CPH
+.cph/
+
+# AI plugins / cache
+.qodo/
+
+# OS metadata
+.DS_Store
+Thumbs.db
